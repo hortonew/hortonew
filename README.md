@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Erik
+- 👀 I’m interested in Python, AWS Cloud, and Music Theory.
+- 🌱 I’m currently learning Graph Theory.
+- 💞️ I’m looking to collaborate on Python projects.
+- 📫 How to reach me: email <this username>@gmail.com.
