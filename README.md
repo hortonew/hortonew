@@ -2,4 +2,4 @@
 - 👀 I’m interested in Python+Rust, Cloud Architecture, and Gamedev.
 - 🌱 I’m currently learning more about Kubernetes, Bevy, and Blender.
 - 💞️ I’m looking to collaborate on developer tooling, games, or a startup.
-- 📫 Reach me by emailing: `<this username>`@gmail.com.
+- 📫 Reach me by emailing: `<this username>`@gmail.com, or see what I'm up to at https://blog.erikhorton.com
